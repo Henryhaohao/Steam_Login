@@ -8,9 +8,10 @@ Steam登录 (RSA加密)
 网址:https://store.steampowered.com/login/
 '''
 
-import requests,execjs,time,re
+import requests,execjs,time,ssl,re
 import requests.cookies
 
+ssl._create_default_https_context = ssl._create_unverified_context
 
 def steam_login():
     req = requests.session()
