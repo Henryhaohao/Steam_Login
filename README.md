@@ -15,7 +15,6 @@ Python实现Steam游戏平台的模拟登录 ![enter image description here](Pic
 - 项目版本:
 > - 版本一:手动填写邮箱验证码进行登录:Spiders_V1
 > - 版本二:自动获取邮箱验证码进行登录:Spiders_V2 (需用到python自带的poplib-邮件接收协议库并申请邮箱开启POP3/STMP服务;参考文章:https://www.cnblogs.com/lsdb/p/9419036.html;如何开启邮箱服务见下方截图)
-- 爬虫文件:Spiders目录下的steam_login.py
 - Password登录密码解密文件:Spiders目录下的rsa.js
 ## :dolphin:运行环境
 Version: Python3
