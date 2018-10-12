@@ -29,11 +29,8 @@ pip3 install -r requirements.txt
 > - **如何申请邮箱开启POP3/STMP服务**<br><br>
 ![enter image description here](Pic/1.png)
 ![enter image description here](Pic/2.png)
-![enter image description here](Pic/3.png)
 > - **Steam登录邮箱验证码样式**<br><br>
 ![enter image description here](Pic/4.png)
-> - **运行过程(手动打码版本)**<br><br>
-![enter image description here](Pic/run.png)
 > - **运行过程(手动打码版本)**<br><br>
 ![enter image description here](Pic/run.png)
 > - **运行过程(自动获取验证码版本)**<br><br>
